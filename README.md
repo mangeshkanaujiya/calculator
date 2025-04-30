@@ -23,3 +23,29 @@ Calculator/
           ├── index.html 
           ├── style.css 
           └── script.js
+
+- `index.html` → Markup for the calculator layout.
+- `style.css` → Styling for calculator (green/red buttons, box layout, responsiveness).
+- `script.js` → Logic for calculator operations.
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+https://github.com/mangeshkanaujiya/calculator.git
+
+
+🛠️ Technologies Used & Tools ⚙ 
+     HTML5
+     CSS3
+     JavaScript (Vanilla)
+     VS code 
+
+📸 Preview
+ ![ Image 2025-04-30 at 14 09 29_aff63493](https://github.com/user-attachments/assets/7530c332-a571-4841-b68a-d605a7d417e5)
+
+
+# Handel By Profile  "Mangesh kanaujiya"
+
+
+
