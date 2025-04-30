@@ -35,10 +35,10 @@ https://github.com/mangeshkanaujiya/calculator.git
 
 
 🛠️ Technologies Used & Tools ⚙ 
-     HTML5
-     CSS3
-     JavaScript (Vanilla)
-     VS code 
+     HTML,
+     CSS,
+     JavaScript,
+     VS code.
 
 📸 Preview Images 
 
