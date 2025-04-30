@@ -31,7 +31,6 @@ Calculator/
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
-   ```bash
 https://github.com/mangeshkanaujiya/calculator.git
 
 
