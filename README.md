@@ -19,4 +19,7 @@ It is designed inside a neat **square box layout** for better aesthetics and use
 ---
 
 ## 📂 Project Structure
-
+Calculator/ 
+          ├── index.html 
+          ├── style.css 
+          └── script.js
